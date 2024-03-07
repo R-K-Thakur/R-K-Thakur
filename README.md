@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/rohankthakur1" target="blank"><img src="https://img.shields.io/twitter/follow/rohankthakur1?logo=twitter&style=for-the-badge" alt="rohankthakur1" /></a> </p>
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **MERN STACK**
 
 - 📫 How to reach me **rt9729515@gmail.com**
 
